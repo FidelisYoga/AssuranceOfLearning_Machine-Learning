@@ -1,7 +1,7 @@
 # Student Exam Score Prediction
 
 This project focuses on predicting student exam scores using a **Linear Regression** model.  
-It covers the full machine learning workflow — from **data preprocessing**, **correlation analysis**, and **model training**, to **evaluation** and **interpretation** of key performance factors such as **study hours** and **attendance**.
+It covers the full machine learning workflow from **data preprocessing**, **correlation analysis**, and **model training**, to **evaluation** and **interpretation** of key performance factors such as **study hours** and **attendance**.
 
 ---
 
